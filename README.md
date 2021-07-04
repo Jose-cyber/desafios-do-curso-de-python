@@ -7,7 +7,8 @@ link do curso: https://www.udemy.com/share/101qWA2@Pm1jV0tjTFwIcUdLA3JOfT1HY1c=/
 exercicio_1.py
 
 # desafio numero 2 
-2 - Faça um programa que receba duas notas digitadas pelo usuário. Se a nota for maior ou igual a seis, escreva aprovado, senão escreva reprovado.exercicio_2.py
+2 - Faça um programa que receba duas notas digitadas pelo usuário. Se a nota for maior ou igual a seis, escreva aprovado, senão escreva reprovado.
+exercicio_2.py
 
 # desafio numero 3 
 3 - Escreva um programa que resolva uma equação de segundo grau.
