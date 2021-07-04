@@ -3,7 +3,7 @@ desafios do curso de python do Diego mariano PHD da udemy,
 link do curso: https://www.udemy.com/share/101qWA2@Pm1jV0tjTFwIcUdLA3JOfT1HY1c=/
 
 # desafio numero 1
-1 - Faça um programa que receba a idade do usuário e diga se ele é maior ou menor de idade.
+1 - Faça um programa que receba a idade do usuário e diga se ele é maior ou menor de idade.   
 exercicio_1.py
 
 # desafio numero 2 
