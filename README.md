@@ -12,7 +12,6 @@ exercicio_2.py
 
 # desafio numero 3 
 3 - Escreva um programa que resolva uma equação de segundo grau.
-
 exercicio_3.py
 
 # desafio numero 4
