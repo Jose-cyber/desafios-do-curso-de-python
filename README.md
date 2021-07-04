@@ -19,5 +19,5 @@ exercicio_3.py
 exercicio_4.py
 
 # desafio numero 5 
-5 - Escreva um programa que receba dois números e um sinal, e faça a operação matemática definida pelo sinal.  
+5 - Escreva um programa que receba dois números e um sinal, e faça a operação matemática definida pelo sinal.
 exercicio_5.py
